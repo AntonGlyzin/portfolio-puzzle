@@ -30,3 +30,4 @@
 |Загруженные изображения в комнате(админ-панели)|![img-post.gif](https://storage.googleapis.com/antonio-glyzin.appspot.com/portfolio/users/toshaglyzin/portfolio/posts/Lw543Vpt57Z6UG55HwibXASiw0kTC3rv.gif)|
 |Уведомления|![notify-post.gif](https://storage.googleapis.com/antonio-glyzin.appspot.com/portfolio/users/toshaglyzin/portfolio/posts/CY6asReqyEc0WXQ3Jed9b8qC9ltZeJrC.gif)|
 |Взаимодействие с рейтингом в реальном времени|![raiting-post.gif](https://storage.googleapis.com/antonio-glyzin.appspot.com/portfolio/users/toshaglyzin/portfolio/posts/xKUUDGQviqOPKz2y1970hqQqNhABL1M7.gif)|
+|Удобный редактор постов|![tryrt](https://firebasestorage.googleapis.com/v0/b/antonio-glyzin.appspot.com/o/img%2FPeek%202022-09-08%2012-45.gif?alt=media&token=40a19332-9a09-4e30-88a4-6ef82056d8c1)|
