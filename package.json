@@ -1,0 +1,80 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^2.3.15",
+    "@vuelidate/core": "^2.0.0-alpha.41",
+    "@vuelidate/validators": "^2.0.0-alpha.29",
+    "axios": "^0.26.1",
+    "blueimp-gallery": "^3.4.0",
+    "bootstrap": "^5.1.3",
+    "bootstrap-vue": "^2.22.0",
+    "core-js": "^3.8.3",
+    "crypto": "^1.0.1",
+    "jquery": "^3.6.0",
+    "js-cookie": "^3.0.1",
+    "lexical": "^0.2.9",
+    "lexical-vue": "^0.1.0-beta.9",
+    "prerender-spa-plugin": "^3.4.0",
+    "primeflex": "^3.2.0",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.6",
+    "quill": "^1.3.7",
+    "simplecrypt": "^0.1.0",
+    "socket.io-client": "^4.5.1",
+    "v-markdown-editor": "^1.2.6",
+    "vue": "^3.2.35",
+    "vue-gallery": "^2.0.1",
+    "vue-meta-info": "^0.1.7",
+    "vue-router": "^4.0.3",
+    "vue-socket.io": "^3.0.10",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/eslint-config-standard": "^6.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "prerender-spa-plugin": "^3.2.1",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "vue-cli-plugin-prerender-spa": "~1.1.6"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "@vue/standard"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {
+      "no-console": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
